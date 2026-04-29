@@ -30,3 +30,13 @@ The script will:
 ## Notes
 - If the dataset path is incorrect, update the `housing_file_path` variable at the top of `basiclearningdata.py` (currently set to `/Housing.csv`).
 - To save environment dependencies, run `pip freeze > requirements.txt` and include it in the repo.
+
+## License (MIT)
+
+MIT License
+
+Copyright (c) 2026 Ryan Calixte
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
